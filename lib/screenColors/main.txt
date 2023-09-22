@@ -1,2 +1,0 @@
-Blue = #003459
-White = #FFFFFF
